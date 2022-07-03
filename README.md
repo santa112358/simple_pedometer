@@ -28,9 +28,8 @@ if (sensorsPermission.isDenied) {
   return;
 }
 
-/// get steps from 2022 to now.
-final steps = stepsIn24Hours = await SimplePedometer.getSteps(
-  from: DateTime(2022),
+final stepsInLast4Hours = await SimplePedometer.getSteps(
+  from: DateTime.now().add(const Duration(hours: -4)),
   to: DateTime.now(),
 );
 
