@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.0.4):
+    - Flutter
+  - simple_pedometer (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - simple_pedometer (from `.symlinks/plugins/simple_pedometer/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  simple_pedometer:
+    :path: ".symlinks/plugins/simple_pedometer/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
+  simple_pedometer: 5b766365aca6b5dfc8979efaa24930e1d7388865
+
+PODFILE CHECKSUM: b7da4d96eec2f4bcebf9a418747ec017422b5b7b
+
+COCOAPODS: 1.11.3
