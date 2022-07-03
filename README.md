@@ -1,4 +1,4 @@
-# flutter_step_counter
+# simple_pedometer
 Simple pedometer plugin for flutter iOS app.
 
 ### 🚨 Warning
