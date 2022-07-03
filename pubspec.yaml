@@ -1,7 +1,7 @@
 name: simple_pedometer
 description: Simple pedometer plugin for flutter iOS app. This plugin allows you to get pedometer data between to specified datetime on iOS.
 version: 0.0.1
-homepage:
+homepage: https://github.com/santa112358/simple_pedometer
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
